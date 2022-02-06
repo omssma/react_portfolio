@@ -23,6 +23,12 @@ function Portfolio() {
       link: " https://omssma.github.io/work-day-scheduler/",
       repo: " https://github.com/omssma/work-day-scheduler"
     },
+     {
+      name: 'MyMovie-WatchList',
+      description: 'Movie Watch-list',
+      link: "  https://blooming-brook-41644.herokuapp.com/",
+      repo: " https://github.com/omssma/mymovie-watchlist"
+    }
   ]);
 
   return (
